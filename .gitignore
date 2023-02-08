@@ -3,6 +3,7 @@
 .idea
 .DS_Store
 build
+#!shared/build/cocoapods/
 captures
 .externalNativeBuild
 .cxx
